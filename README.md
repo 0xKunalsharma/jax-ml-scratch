@@ -5,3 +5,6 @@ Mathematical implementations of machine learning models built from scratch using
 ### Progress Log
 
 **[16 October 2026]** Implemented `mlp_mnist.py`, a multilayer perceptron trained on the MNIST handwritten digit dataset. Includes manual parameter initialization, forward propagation, cross-entropy loss, gradient-based optimization, and evaluation on held-out test data.
+
+**[21 October 2026]** Implemented a  Transformer FineWeb + GPT-2 tokenizer + experimental Muon , on the fineweb dataset.
+
